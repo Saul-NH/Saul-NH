@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saul-NH
-- 👀 I’m interested in back-end tecnologies
-- 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on Startups
+- 👀 I am interested in backend development
+- 🌱 I love JavaScript technologies
+- 💞️ I would like to collaborate with Startups
 - 📫 saul.navarro.utj@gmail.com
 
 <!---
